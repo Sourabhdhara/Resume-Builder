@@ -1,19 +1,31 @@
-https://sourabhdhara.github.io/ResumePro-Builder/
 # ResumePro-Builder 🧾
 
-A lightweight, modular resume builder built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies, just clean code and full control.
+A clean, modular resume builder crafted for **marketing and business professionals**. Built with pure HTML, CSS, and JavaScript — no frameworks, no dependencies, just full control and privacy-first design.
 
 🔗 [Live Demo](https://sourabhdhara.github.io/ResumePro-Builder/)
 
 ---
 
+## 🎯 Who It's For
+
+Designed specifically for:
+- 📈 Marketing strategists
+- 💼 Business analysts
+- 🧠 Brand consultants
+- 🗣️ Sales professionals
+- 🧳 MBA students and freshers
+
+Whether you're applying for internships, corporate roles, or freelance gigs — ResumePro-Builder helps you present your skills with clarity and impact.
+
+---
+
 ## 🚀 Features
 
-- **Live Preview**: See your resume update in real-time as you type.
-- **Modular Sections**: Add or remove resume sections with ease.
-- **PDF Export**: Save your resume locally as a polished PDF.
+- **Live Preview**: See your resume update in real-time.
+- **Business-Focused Sections**: Tailored templates for marketing, strategy, and business roles.
+- **PDF Export**: Save your resume locally as a professional-grade PDF.
 - **Local-First Design**: No server, no database — everything runs safely on your own PC.
-- **Clean UI**: Minimalist, distraction-free interface for focused editing.
+- **Minimalist UI**: Clean layout optimized for readability and impact.
 
 ---
 
@@ -28,6 +40,7 @@ No Node.js, React, or external tooling required.
 ---
 
 ## 📂 Project Structure
+
 ResumePro-Builder
 |--- index.html
 | ---- ReadMe.md
